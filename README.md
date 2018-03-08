@@ -1,7 +1,7 @@
 # first-vue-project
 
 > my first vue project
-模仿百度音乐的页面联系
+模仿百度音乐的页面练习
 
 ## Build Setup
 
